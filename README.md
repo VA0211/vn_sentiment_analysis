@@ -7,3 +7,7 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 ```
+
+**Simple inference**
+
+[Streamlit](https://vn-sentiment-analysis-anhldv.streamlit.app/)
